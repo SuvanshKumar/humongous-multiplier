@@ -1,0 +1,23 @@
+* Main files to run are : prog1.c and prog2.c
+* By executing the command on terminal:
+## Compile for single-thread:
+		gcc prog1.c
+## Compile for multi-thread:
+		gcc prog2.c -lpthread
+
+
+* The output of the program can be seen in the folder (output files) which contains single.txt and multithreaded_multiplied.txt file
+
+* All the Input Files are available in this folder only. 
+
+* Name of Output File where the Results can be viewed-
+  For single thread : single_multiplied.txt 
+  For multi-thread : multithreaded_multiplied.txt 
+
+
+* Names of Input Files-
+    input1.txt
+    input2.txt 
+		
+
+* ./prog1.out and ./prog2.out are the compiled executable file for the Code.
